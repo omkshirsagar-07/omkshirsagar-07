@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Hi, I'm Om Kshirsagar
 
 🚀 **Full Stack Developer**
