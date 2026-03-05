@@ -1,4 +1,6 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" />
+</p>
 
 # 👋 Hi, I'm Om Kshirsagar
 
